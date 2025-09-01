@@ -1,7 +1,8 @@
 // API配置文件
 export const API_CONFIG = {
   // 开发环境API地址
-  BASE_URL: 'http://localhost:3001',
+  // BASE_URL: 'http://localhost:3001',
+  BASE_URL: 'https://jsonback-production.up.railway.app',
   
   // API端点
   ENDPOINTS: {
